@@ -1,6 +1,4 @@
-Rami Rak
------------------
-Software Engineer
+Rami Rak - Software Engineer
 -----------------
 
 ### Skills
