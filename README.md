@@ -1,4 +1,4 @@
-Hi 👋 My name is Rami Rak
+Rami Rak
 =========================
 
 Software Engineer
