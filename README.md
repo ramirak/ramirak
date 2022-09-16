@@ -1,8 +1,6 @@
 Rami Rak - Software Engineer
 -----------------
 
-### Skills
-
 <p align="left">
 <b><i>There are only 2 hard problems in computer science: cache invalidation, naming variables, and off-by-one errors</i></b>
 </p>
