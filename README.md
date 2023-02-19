@@ -1,9 +1,8 @@
 Rami Rak - Software Engineer
 -----------------
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/63206167/219974045-f01ed39b-c208-4ebc-a0a8-3754a32e1f9c.gif" width="1000", height="200">
-</p>
+![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirak&show_icons=true&theme=codeSTACKr)
+
 
 <p align="left">
 <b><i>There are only 2 hard problems in computer science: cache invalidation, naming variables, and off-by-one errors</i></b>
