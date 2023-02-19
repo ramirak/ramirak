@@ -1,7 +1,7 @@
 Rami Rak - Software Engineer
 -----------------
 
-![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirak&show_icons=true&theme=codeSTACKr)
+![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirak&show_icons=true&theme=tokyonight&card_width=1000)
 
 
 <p align="left">
