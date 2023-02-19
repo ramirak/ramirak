@@ -2,7 +2,7 @@ Rami Rak - Software Engineer
 -----------------
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63206167/219973330-a61b2eaa-e454-4c72-a9f0-6c4985760333.gif" width="1000", height="150">
+<img src="https://user-images.githubusercontent.com/63206167/219974045-f01ed39b-c208-4ebc-a0a8-3754a32e1f9c.gif" width="1000", height="200">
 </p>
 
 <p align="left">
